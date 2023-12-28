@@ -1,0 +1,4 @@
+fat_front_.JPG fat_left_.JPG 163 70
+1_front_.JPG 1_left_.JPG 168 60
+2_front_.JPG 2_left_.JPG 165 55
+man_front_.JPG man_left_.JPG 175 75
