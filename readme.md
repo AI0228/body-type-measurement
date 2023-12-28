@@ -4,7 +4,7 @@
 
 # set up environment
   * clone the code
-    * git clone https://github.com/khanhha/body_measure.git
+    * git clone https://github.com/jinguo-aitech/body_type_measurement.git
   * OpenPose
     * move to the folder body_measure
     * use portable openpose for windows
